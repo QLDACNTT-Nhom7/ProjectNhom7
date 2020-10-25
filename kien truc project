@@ -1,0 +1,18 @@
+php41_project_news
+	Models
+		Backend
+		Frontend
+	Controllers
+		Backend
+		Frontend
+	Views
+		Backend
+		Frontend
+	App -> chua cac file cau hinh cua he thong
+		Connection.php -> ket noi csdl
+		Controllers.php -> dieu phoi view, chung thuc dang nhap...
+		Routing.php -> dieu huong url cua website (goi controller nao, action nao)
+	Assets -> chua cac file images, js, css... la nhung file ma nguoi dung co the nhin thay duoc
+		Backend
+		Frontend
+	index.php
